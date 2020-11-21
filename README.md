@@ -8,7 +8,7 @@
 
 [GSP](docs/GSP.md)
 
-
+[缩略词表](docs/Abbreviation.md)
 
 ## 许可证
 
