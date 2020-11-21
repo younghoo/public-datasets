@@ -2,9 +2,8 @@
 
 ## [Retrospective](http://fcon_1000.projects.nitrc.org/indi/IndiRetro.html)
 
-* [CoRR](INDI/CoRR.md)
+* [Consortium for Reliability and Reproducibility](INDI/CoRR.md)
 
 ## [Prospective](http://fcon_1000.projects.nitrc.org/indi/IndiPro.html)
-
 
 
