@@ -60,3 +60,7 @@
 * [LMU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/lmu_1.html)
 * [LMU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/lmu_2.html)
 * [LMU3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/lmu_3.html)
+* [MPG1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/mpg_1.html)
+  * 包含22名被试。
+  * 每名被试间隔一周扫描两次，每次扫描包含T1/rsfMRI扫描。
+  * 每名被试还有一些行为和生理指标的测量。
