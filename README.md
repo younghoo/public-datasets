@@ -4,7 +4,7 @@
 
 你可以通过提交issue或者pull request的方式参与进来！
 
-[FCP](docs/FCP.md) | [INDI](docs/INDI.md) | [OpenfMRI](docs/OpenfMRI.md) | [OpenNEURO](docs/OpenNEURO.md) | [Preprocessed Connectomes Project](docs/PCP.md)
+[FCP](docs/FCP.md) | [INDI](docs/INDI.md) | [OpenfMRI](docs/OpenfMRI.md) | [OpenNEURO](docs/OpenNEURO.md) | [PCP](docs/PCP.md)
 
 [GSP](docs/GSP.md) | [UK Biobank](docs/UKB.md) | [ABCD](docs/ABCD.md) | [ADNI](docs/ADNI.md) 
 
