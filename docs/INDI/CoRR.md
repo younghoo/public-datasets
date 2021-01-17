@@ -10,7 +10,7 @@
 # 数据结构
 
 * [BMB1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bmb_1.html)
-  * 包含50名被试(男24名)，年龄范围18-60岁(平均年龄30岁)。
+  * 包含50名被试（男24名），年龄范围18-60岁（平均年龄30岁）。
   * 每名被试包含1个T1，其中40名被试包含2次rsfMRI扫描，扫描间隔10个月；10名被试包含4次rsfMRI扫描，扫描间隔为10/17.5/25个月。
   * T1扫描参数：3T，分辨率1mm，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x4mm^3，FOV=192mm，TR=2300ms，200个时间点。
 * [BNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_1.html)
