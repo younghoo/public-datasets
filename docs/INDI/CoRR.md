@@ -16,6 +16,7 @@
 * [BNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_1.html)
   * 包含57名（男30）被试，年龄范围19-30岁，右利手，没有神经和精神障碍。
   * 每名被试在相隔6周完成两次MRI扫描，第一次扫描包含两次rsfMRI扫描，分别位于扫描的开始和结束阶段，包含T1/T2/DTI；第二次扫描包含rsfMRI/T1/DTI。
+  * T1扫描参数：3T，分辨率1.3x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.1x3.1x3.5mm^3，FOV=200mm，TR=2000ms，200个时间点。
 * [BNU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_2.html)
   * 包含61名被试，年龄范围19-23岁。
   * 每名被试相隔至少3个月完成两次扫描，包含T1和rsfMRI。
