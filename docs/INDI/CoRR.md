@@ -22,8 +22,9 @@
   * 每名被试相隔至少3个月（103-189天，平均161天）完成两次扫描，包含T1和rsfMRI。
   * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x3.6mm^3，FOV=200mm，TR=2000ms，240个时间点。
 * [BNU3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_3.html)
-  * 包含48名学生被试。
-  * 每名被试包含3次rsfMRI和一次T1/DTI扫描。
+  * 包含48名被试（男24名），年龄范围18-30岁（平均年龄22岁）。
+  * 每名被试在同一个session中包含3次rsfMRI和一次T1/DTI扫描（2名被试有２次DTI扫描，1名被试没有DTI扫描），rsfMRI扫描间隔时间为0和8分钟。
+  * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x4.2mm^3，FOV=200mm，TR=2000ms，240个时间点；DTI扫描参数：3T，分辨率1.8x1.8x2.5mm^3，FOV=230mm，b值为1000，方向为64。  
 * [HNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/hnu_1.html)
   * 包含30名健康被试。
   * 每名被试在一个月内完成10次MRI扫描，每三天一次。每次扫描包含T1/T2/DTI/ASL/rsfMRI。
