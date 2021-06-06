@@ -58,14 +58,17 @@
   * 每名被试包含一次T1和三次rsfMRI扫描（相隔10分钟和40分钟，注意信息与实际数据不相符）。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.1x3.1x5mm^3，FOV=200mm，TR=2000ms，170个时间点。
 * [IPCAS6](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_6.html)
-  * 包含2名健康年轻被试。
-  * 每名被试在三天内进行了5次扫描，第一次扫描包含T1，每次扫描包含三次rsfMRI。
+  * 包含2名被试（男1名），年龄分别为21和25岁。
+  * 每名被试在三天内每天进行了5次扫描（共15个session），只有第一次扫描包含T1，每次扫描包含三次rsfMRI。
+  * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.5x3.5x7mm^3，FOV=224mm，TR=2500ms，240个时间点。
 * [IPCAS7](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_7.html)
-  * 包含74名正常发育的儿童被试。
-  * 每名被试包含一次T1和两次rsfMRI扫描。
+  * 包含74名被试（男31名），年龄6-17岁（平均11岁）。
+  * 每名被试（在一个session内）包含一次T1和两次rsfMRI扫描。
+  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=216mm，TR=2500ms，184个时间点。
 * [IPCAS8](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_8.html)
-  * 包含13名健康老年被试。
-  * 每名被试包含两次T1/DTI/rsfMRI扫描，间隔一年。
+  * 包含13名被试（男6名），年龄50-62岁（平均57岁）。
+  * 每名被试包含两次T1/DTI/rsfMRI扫描，间隔367-810天（平均516天）。
+  * T1扫描参数：3T，分辨率1.3x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.4x3.4x3.9mm^3，FOV=220mm，TR=2000ms，240个时间点；DTI扫描参数：3T，分辨率1.8x1.8x3mm^3，FOV=230mm，b值为1000，方向为64。
 * [JHNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/jhnu_1.html)
   * 包含20名被试，年龄范围20-40岁。
   * 每名被试包含两次T1/rsfMRI扫描。
