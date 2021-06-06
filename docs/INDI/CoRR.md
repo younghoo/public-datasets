@@ -42,8 +42,9 @@
   * 每名被试间隔5-24天（平均14天）进行两次扫描，每次扫描包含T1/DTI和两次rsfMRI（间隔29分钟），其中1名被试第一次扫描缺失一次rsfMRI，1名被试第二次扫描缺失一次DTI和一次rsfMRI。
   * T1扫描参数：3T，分辨率1.3x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率4x4x4.8mm^3，FOV=256mm，TR=2000ms，205个时间点；DTI扫描参数：3T，分辨率1.8x1.8x2.5mm^3，FOV=230mm，b值为1000，方向为61。
 * [IPCAS2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_2.html)
-  * 包含35名正常发育的儿童被试。
-  * 每名被试包含两次T1/DTI/rsfMRI扫描，间隔一个月。
+  * 包含35名被试（男12名），年龄范围11-15岁（平均13岁），其中一名被试没有信息。
+  * 每名被试包含两次T1/DTI/rsfMRI扫描，间隔7-59天（平均33天）。
+  * T1扫描参数：3T，分辨率1.2x0.94x0.94mm^3，FOV=240mm；rsfMRI扫描参数：3T，分辨率3.75x3.75x4mm^3，FOV=240mm，TR=2500ms，212个时间点；DTI扫描参数：3T，分辨率1.875x1.875x3mm^3，FOV=240mm，b值为1000，方向为36。
 * [IPCAS3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_3.html)
   * 包含36名健康年轻被试。
   * 每名被试包含一次或两次tsfMRI，在tsfMRI前后各有一次rsfMRI扫描。
