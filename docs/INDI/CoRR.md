@@ -46,8 +46,9 @@
   * 每名被试包含两次T1/DTI/rsfMRI扫描，间隔7-59天（平均33天）。
   * T1扫描参数：3T，分辨率1.2x0.94x0.94mm^3，FOV=240mm；rsfMRI扫描参数：3T，分辨率3.75x3.75x4mm^3，FOV=240mm，TR=2500ms，212个时间点；DTI扫描参数：3T，分辨率1.875x1.875x3mm^3，FOV=240mm，b值为1000，方向为36。
 * [IPCAS3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_3.html)
-  * 包含36名健康年轻被试。
-  * 每名被试包含一次或两次tsfMRI，在tsfMRI前后各有一次rsfMRI扫描。
+  * 包含36名被试（男12名），年龄范围17-25岁（平均21岁），其中一名被试没有信息。
+  * 每名被试（在一个session内）包含一次T1和两次rsfMRI（间隔40min）。其中4名被试在1-2天后有第二次相同的扫描。
+  * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.4x3.4x4mm^3，FOV=220mm，TR=2000ms，180个时间点。
 * [IPCAS4](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_4.html)
   * 包含20名健康年轻被试。
   * 每名被试包含一次tsfMRI，在tsfMRI前后各有一次rsfMRI扫描。
