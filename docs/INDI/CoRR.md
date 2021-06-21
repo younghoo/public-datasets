@@ -86,9 +86,9 @@
   * 每名被试包含两次T1/rsfMRI，时间间隔为315-463天（平均400天）。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x4.4mm^3，FOV=192mm，TR=3000ms，120个时间点。
 * [MPG1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/mpg_1.html)
-  * 包含22名被试。
-  * 每名被试间隔一周扫描两次，每次扫描包含T1/rsfMRI扫描。
-  * 每名被试还有一些行为和生理指标的测量。
+  * 包含22名被试（男12名），年龄范围22-30岁（平均25岁）。
+  * 每名被试间隔一周扫描两次，在每次扫描中包括两次rsfMRI、两次field map和一次prefrontal rsfMRI，在第一次扫描中还包括T1。每名被试还有一些行为和生理指标的测量。
+  * T1扫描参数：7T，分辨率0.7x0.7x0.7mm^3，FOV=224mm；rsfMRI扫描参数：7T，分辨率1.5x1.5x1.5mm^3，FOV=192mm，TR=3000ms，300个时间点。
 * [MRN1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/mrn_1.html)
   * 包含56名被试。
   * 每名被试间隔4个月扫描两次，每次扫描包含T1/DTI/rsfMRI扫描。
