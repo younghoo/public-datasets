@@ -121,13 +121,15 @@
 
 * [SWU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_2.html)
 
-  * 包含27名被试。
-  * 每名被试包含一次T1扫描和两次rsfMRI扫描。
+  * 包含27名被试（男9名），年龄范围18-24（平均21岁）。
+  * 每名被试在一个run里包含一次T1扫描和两次rsfMRI扫描，rsfMRI扫描时间间隔32分钟。
+  * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，242个时间点。
 
 * [SWU3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_3.html)
 
-  * 包含24名被试。
-  * 每名被试包含两次T1/rsfMRI扫描。
+  * 包含24名被试（男8名），年龄范围18-25岁（平均20岁）。
+  * 每名被试包含两次T1/rsfMRI扫描，时间间隔90分钟。
+  * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，300个时间点。
 
 * [SWU4](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_4.html)
   * 包含235名被试。
