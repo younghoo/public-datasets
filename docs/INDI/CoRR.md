@@ -109,8 +109,9 @@
 
 * [NYU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/nyu_2.html)
 
-  * 包含187名成年被试。
-  * 每名被试相隔1小时进行两次T1和rsfMRI扫描。
+  * 包含187名被试（男116名），年龄范围6-55岁（平均20岁）。
+  * 每名被试相隔7-57分钟（平均24分钟）进行两次T1和rsfMRI扫描。部分被试间隔1-301天（平均94天）再进行两次T1和rsfMRI扫描。
+  * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x4mm^3，FOV=240x192mm^2，TR=2000ms，180个时间点。
 
 * [SWU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_1.html)
 
