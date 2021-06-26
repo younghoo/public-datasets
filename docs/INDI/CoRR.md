@@ -132,8 +132,19 @@
   * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，300个时间点。
 
 * [SWU4](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_4.html)
-  * 包含235名被试。
-  * 每名被试两次T1/rsfMRI/DWI扫描，两次扫描间隔1年。
+
+  * 包含235名被试（男119名），年龄范围17-27岁（平均20岁）。
+  * 大多数被试包含两次T1/rsfMRI/DWI扫描，两次扫描间隔121-653天（平均302天）。
+  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，242个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=256mm，b值为1000，方向为90。 
 
 * [UM1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/um_1.html)
+
+  * 包含80名被试（男22名），年龄范围55-84岁（平均65岁）。
+  * 每名被试包含两个扫描session，时间间隔74-194天（平均111天），在每个session里有1次T1和两次rsfMRI。
+  * T1扫描参数：分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：分辨率4x4x4mm^3，FOV=256mm，TR=2000ms，150个时间点。扫描仪信息缺失。
+
+
+
+
+
 
