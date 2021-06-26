@@ -98,6 +98,10 @@
   * 其中23名被试间隔14天扫描两次，每次包含三个不同TR（645/1400/2500ms）的rsfMRI和一个DTI，第一次扫描包含T1。此外，第一次扫描还包含一些其他模态，具体信息不清楚。
   * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=216mm，TR=2500ms，120个时间点；rsfMRI扫描参数：3T，分辨率2x2x2mm^3，FOV=224mm，TR=1400ms，404个时间点；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=224mm，TR=645ms，900个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=212x180mm^2，b值为1500，方向为128。
 * [NKI2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/nki_2.html)
+  * 包含77名被试（男32名），年龄范围6-17岁（平均11岁）。
+  * 大多数被试包含两次扫描，每次扫描包含T1/rsfMRI/DTI，其中rsfMRI包含三个不同TR的扫描。两次扫描的时间间隔不清楚。
+  * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=216mm，TR=2500ms，120个时间点；rsfMRI扫描
+参数：3T，分辨率2x2x2mm^3，FOV=224mm，TR=1400ms，404个时间点；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=224mm，TR=645ms，900个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=212x180mm^2，b值为1500，方向为128。
 * [NYU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/nyu_1.html)
   * 包含25名被试。
   * 每名被试包含3次扫描，包含T1和rsfMRI，第一次和第二次扫描间隔5-11个月，第二次和第三次扫描间隔约30分钟。
