@@ -115,8 +115,9 @@
 
 * [SWU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_1.html)
 
-  * 包含20名被试。
-  * 每名被试包含两次T1/rsfMRI扫描，两次扫描之间有行为测试。
+  * 包含20名被试（男6名），年龄范围19-24岁（平均22岁）。
+  * 19名被试包含三个扫描session，时间间隔为1天，在每个session里有两次T1/rsfMRI，时间间隔为20分钟。
+  * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x3.6mm^3，FOV=200mm，TR=2000ms，240个时间点。
 
 * [SWU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_2.html)
 
