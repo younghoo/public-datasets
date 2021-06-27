@@ -106,44 +106,34 @@
   * 包含25名被试（男10名），年龄范围21-49岁（平均29岁）。
   * 每名被试包含3次扫描，包含T1和rsfMRI，第一次和第二次扫描间隔5-16个月，第二次和第三次扫描间隔约45分钟。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=192mm，TR=2000ms，197个时间点。
-
 * [NYU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/nyu_2.html)
-
   * 包含187名被试（男116名），年龄范围6-55岁（平均20岁）。
   * 每名被试相隔7-57分钟（平均24分钟）进行两次T1和rsfMRI扫描。部分被试间隔1-301天（平均94天）再进行两次T1和rsfMRI扫描。
   * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x4mm^3，FOV=240x192mm^2，TR=2000ms，180个时间点。
-
 * [SWU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_1.html)
-
   * 包含20名被试（男6名），年龄范围19-24岁（平均22岁）。
   * 19名被试包含三个扫描session，时间间隔为1天，在每个session里有两次T1/rsfMRI，时间间隔为20分钟。
   * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x3.6mm^3，FOV=200mm，TR=2000ms，240个时间点。
-
 * [SWU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_2.html)
-
   * 包含27名被试（男9名），年龄范围18-24（平均21岁）。
   * 每名被试在一个run里包含一次T1扫描和两次rsfMRI扫描，rsfMRI扫描时间间隔32分钟。
   * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，242个时间点。
-
 * [SWU3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_3.html)
-
   * 包含24名被试（男8名），年龄范围18-25岁（平均20岁）。
   * 每名被试包含两次T1/rsfMRI扫描，时间间隔90分钟。
   * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，300个时间点。
-
 * [SWU4](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/swu_4.html)
-
   * 包含235名被试（男119名），年龄范围17-27岁（平均20岁）。
   * 大多数被试包含两次T1/rsfMRI/DWI扫描，两次扫描间隔121-653天（平均302天）。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，242个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=256mm，b值为1000，方向为90。 
-
 * [UM1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/um_1.html)
-
   * 包含80名被试（男22名），年龄范围55-84岁（平均65岁）。
   * 每名被试包含两个扫描session，时间间隔74-194天（平均111天），在每个session里有1次T1和两次rsfMRI。
   * T1扫描参数：分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：分辨率4x4x4mm^3，FOV=256mm，TR=2000ms，150个时间点。扫描仪信息缺失。
-
-
+* [UPSM1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/upsm_1.html)
+  * 包含100名被试（男52名），年龄范围10-19（平均15岁）。
+  * 99名被试包含两个扫描session，在每个session里有一次T1/rsfMRI，时间间隔473-1238天（平均640天）；31名被试有第三个扫描session，时间间隔1046-1404天（平均1161天）。
+  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=208x256mm^2；rsfMRI扫描参数：3T，分辨率3.125x3.125x4mm^3，FOV=200mm，TR=1500ms，200个时间点。
 
 
 
