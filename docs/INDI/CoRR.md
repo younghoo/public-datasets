@@ -131,10 +131,19 @@
   * 每名被试包含两个扫描session，时间间隔74-194天（平均111天），在每个session里有1次T1和两次rsfMRI。
   * T1扫描参数：分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：分辨率4x4x4mm^3，FOV=256mm，TR=2000ms，150个时间点。扫描仪信息缺失。
 * [UPSM1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/upsm_1.html)
-  * 包含100名被试（男52名），年龄范围10-19（平均15岁）。
+  * 包含100名被试（男52名），年龄范围10-19岁（平均15岁）。
   * 99名被试包含两个扫描session，在每个session里有一次T1/rsfMRI，时间间隔473-1238天（平均640天）；31名被试有第三个扫描session，时间间隔1046-1404天（平均1161天）。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=208x256mm^2；rsfMRI扫描参数：3T，分辨率3.125x3.125x4mm^3，FOV=200mm，TR=1500ms，200个时间点。
-
-
-
-
+* [Utah1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/utah_1.html)
+  * 包含26名被试（男26名），年龄范围8-39岁（平均20岁）。
+  * 每名被试包含两个扫描session，时间间隔733-1187天（平均928天），在第一个session里包含一次T1/rsfMRI，在第二个session里包含一次T1和两次rsfMRI。
+  * T1扫描参数：3T，分辨率1.2x0.5x0.5mm^3，FOV=240x256mm^2；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.3mm^3，FOV=220mm，TR=2000ms，240个时间点。
+* [Utah2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/utah_2.html)
+  * 包含1名被试（男），39岁。
+  * 包含10个扫描session，时间间隔为3周内（16天），在每个session中包含1个T1/FieldMap，在5个session中包含10个rsfMRI，在另5个session中包含10个看视频的fMRI。
+  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；fMRI扫描参数：3T，分辨率3.438x3.438x3.3mm^3，FOV=220mm，TR=2000ms，155个时间点。
+* [UWM1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/uwm_1.html)
+  * 包含25名被试（男14名），年龄范围21-32岁（平均25岁）。
+  * 每名被试包含两个扫描session，时间间隔56-314天（平均110天），在第一个session里包含一次T1和两次rsfMRI，两次rsfMRI间隔30分钟，在第二个session里包含一次T1/rsfMRI。
+  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；fMRI扫描参数：3T，分辨率3.5x3.5x3.5mm^3，FOV=224mm，TR=2600ms，231个时间点。 
+ 
