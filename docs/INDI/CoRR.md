@@ -146,4 +146,7 @@
   * 包含25名被试（男14名），年龄范围21-32岁（平均25岁）。
   * 每名被试包含两个扫描session，时间间隔56-314天（平均110天），在第一个session里包含一次T1和两次rsfMRI，两次rsfMRI间隔30分钟，在第二个session里包含一次T1/rsfMRI。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；fMRI扫描参数：3T，分辨率3.5x3.5x3.5mm^3，FOV=224mm，TR=2600ms，231个时间点。 
- 
+* [XHCUMS1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/xhcums_1.html)
+  * 包含24名被试（男14名），年龄范围36-62岁（平均52岁）。
+  * 大多数被试包含5个扫描session，总的时间间隔176-197天（平均178天），在每个session里包含一次T1/DWI和两次rsfMRI。
+  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；fMRI扫描参数：3T，分辨率3x3x3.48mm^3，FOV=192mm，TR=3000ms，124个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=256mm，b值为700，方向为64。
