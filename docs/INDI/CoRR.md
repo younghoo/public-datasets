@@ -7,7 +7,7 @@
 * 数据介绍：[http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html)
 * 数据下载：[http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html)
 
-# 数据结构
+## 数据结构
 
 * [BMB1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bmb_1.html)
   * 包含50名被试（男24名），年龄范围18-60岁（平均年龄30岁）。
