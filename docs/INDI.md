@@ -10,4 +10,6 @@
 
 ## [Prospective](http://fcon_1000.projects.nitrc.org/indi/IndiPro.html)
 
-* [Nathan Kline Institute (NKI) / Rockland Sample](INDI/NKI.md)
+* [Nathan Kline Institute (NKI)-Rockland Sample](INDI/NKI.md)
+
+* [Enhanced Nathan Kline Institute-Rockland Sample](INDI/EnhancedNKI.md)
