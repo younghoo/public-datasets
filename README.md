@@ -6,7 +6,7 @@
 
 ## 数据共享平台
 
-[FCP](docs/FCP.md) | [INDI](docs/INDI.md) | [OpenfMRI](docs/OpenfMRI.md) | [OpenNEURO](docs/OpenNEURO.md) | [PCP](docs/PCP.md)
+[FCP](docs/FCP.md) | [INDI](docs/INDI.md) | [OpenfMRI](docs/OpenfMRI.md) | [OpenNEURO](docs/OpenNEURO.md) | [PCP](docs/PCP.md) | [ANIMA](docs/ANIMA.md)
 
 ## 单个数据集
 
