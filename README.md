@@ -4,7 +4,7 @@
 
 * [Consortium for Reliability and Reproducibility](doc/CoRR.md)
 * [Enhanced Nathan Kline Institute-Rockland Sample](doc/eNKI.md)
-* [[FCP](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)](doc/FCP.md)
+* [1000 Functional Connectomes](doc/FCP.md)
 * [Brain Genomics Superstruct Project](doc/GSP.md)
 * [Nathan Kline Institute (NKI)-Rockland Sample](doc/NKI.md)
 * [Southwest University Adult Lifespan Dataset](doc/SALD.md)

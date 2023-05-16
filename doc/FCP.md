@@ -1,4 +1,4 @@
-# [FCP](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)
+# 1000 Functional Connectomes
 
 ## 基本信息
 
