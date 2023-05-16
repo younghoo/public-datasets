@@ -1,11 +1,10 @@
-# [CoRR](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html)
+# Consortium for Reliability and Reproducibility
 
 ## 基本信息
 
 * 无需申请、自由下载
-
-* 数据介绍：[http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html)
-* 数据下载：[http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html)
+* 数据介绍：<http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html>
+* 数据下载：<http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html>
 
 ## 数据结构
 
@@ -24,7 +23,7 @@
 * [BNU3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_3.html)
   * 包含48名被试（男24名），年龄范围18-30岁（平均年龄22岁）。
   * 每名被试在同一个session中包含3次rsfMRI和一次T1/DTI扫描（2名被试有２次DTI扫描，1名被试没有DTI扫描），rsfMRI扫描间隔时间为0和8分钟。
-  * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x4.2mm^3，FOV=200mm，TR=2000ms，240个时间点；DTI扫描参数：3T，分辨率1.8x1.8x2.5mm^3，FOV=230mm，b值为1000，方向为64。  
+  * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x4.2mm^3，FOV=200mm，TR=2000ms，240个时间点；DTI扫描参数：3T，分辨率1.8x1.8x2.5mm^3，FOV=230mm，b值为1000，方向为64。
 * [HNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/hnu_1.html)
   * 包含30名被试（男15名），年龄范围20-30岁（平均年龄24岁）。
   * 每名被试在大约一个月内（31-40天，平均33天）完成10次MRI扫描，大约每三天一次（2-10天，平均3天）。每次扫描包含T1/CBF/DTI/ASL/rsfMRI。

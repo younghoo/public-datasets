@@ -1,9 +1,9 @@
-# [SALD](http://fcon_1000.projects.nitrc.org/indi/retro/sald.html)
+# Southwest University Adult Lifespan Dataset
 
 ## 基本信息
 
 * 无需申请、自由下载
-* 数据介绍和下载：[http://fcon_1000.projects.nitrc.org/indi/retro/sald.html](http://fcon_1000.projects.nitrc.org/indi/retro/sald.html)
+* 数据介绍和下载：<http://fcon_1000.projects.nitrc.org/indi/retro/sald.html>
 
 ## 数据结构
 

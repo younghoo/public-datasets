@@ -1,1 +1,0 @@
-# [ABCD](https://abcdstudy.org/)

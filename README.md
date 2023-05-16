@@ -1,19 +1,12 @@
-# 公开数据
+# 常用神经影像公开数据
 
-该项目汇总神经影像公开数据信息，包括下载方式和数据结构，方便大家查找。
+这个仓库原计划是汇总神经影像公开数据，经过一段时间实践后发现，我能够接触和使用的公开数据很有限，而且几乎没有其他人参与进来。所以今后这里只汇总我自己使用过或者经常使用的一些公开数据集，方便自己查阅。
 
-你可以通过提交issue或者pull request的方式参与进来！
+* [Consortium for Reliability and Reproducibility](doc/CoRR.md)
+* [Enhanced Nathan Kline Institute-Rockland Sample](doc/eNKI.md)
+* [[FCP](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html)](doc/FCP.md)
+* [Brain Genomics Superstruct Project](doc/GSP.md)
+* [Nathan Kline Institute (NKI)-Rockland Sample](doc/NKI.md)
+* [Southwest University Adult Lifespan Dataset](doc/SALD.md)
+* [Southwest University Longitudinal Imaging Multimodal (SLIM) Brain Data Repository](doc/SLIM.md)
 
-## 数据共享平台
-
-[FCP](docs/FCP.md) | [INDI](docs/INDI.md) | [OpenfMRI](docs/OpenfMRI.md) | [OpenNEURO](docs/OpenNEURO.md) | [PCP](docs/PCP.md) | [ANIMA](docs/ANIMA.md)
-
-## 单个数据集
-
-[GSP](docs/GSP.md) | [UK Biobank](docs/UKB.md) | [ABCD](docs/ABCD.md) | [ADNI](docs/ADNI.md) | [Cam-CAN](docs/Cam-CAN.md) | [OASIS](docs/OASIS.md) | [Age-ility](docs/Age-ility.md)
-
-[缩略词表](docs/Abbreviation.md)
-
-## 许可证
-
-本作品采用[知识共享署名-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。

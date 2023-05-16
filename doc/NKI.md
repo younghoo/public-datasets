@@ -1,9 +1,9 @@
-# [NKI](http://fcon_1000.projects.nitrc.org/indi/pro/nki.html)
+# Nathan Kline Institute (NKI)-Rockland Sample
 
 ## 基本信息
 
 * 无需申请、自由下载
-* 数据介绍和下载：[http://fcon_1000.projects.nitrc.org/indi/pro/nki.html](http://fcon_1000.projects.nitrc.org/indi/pro/nki.html)
+* 数据介绍和下载：<http://fcon_1000.projects.nitrc.org/indi/pro/nki.html>
 
 ## 数据结构
 

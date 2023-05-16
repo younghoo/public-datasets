@@ -1,9 +1,9 @@
-# [SLIM](http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html)
+# Southwest University Longitudinal Imaging Multimodal (SLIM) Brain Data Repository
 
 ## 基本信息
 
 * 无需申请、自由下载
-* 数据介绍和下载：[http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html](http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html)
+* 数据介绍和下载：<http://fcon_1000.projects.nitrc.org/indi/retro/southwestuni_qiu_index.html>
 
 ## 数据结构
 
