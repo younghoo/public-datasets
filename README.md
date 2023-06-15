@@ -6,7 +6,7 @@
 * [Enhanced Nathan Kline Institute-Rockland Sample](doc/eNKI.md)
 * [1000 Functional Connectomes](doc/FCP.md)
 * [Brain Genomics Superstruct Project](doc/GSP.md)
-* [Nathan Kline Institute (NKI)-Rockland Sample](doc/NKI.md)
+* [Nathan Kline Institute (NKI)-Rockland Sample (pilot NKI)](doc/pNKI.md)
 * [Southwest University Adult Lifespan Dataset](doc/SALD.md)
 * [Southwest University Longitudinal Imaging Multimodal (SLIM) Brain Data Repository](doc/SLIM.md)
 
