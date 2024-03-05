@@ -1,12 +1,12 @@
 # Consortium for Reliability and Reproducibility
 
-## 基本信息
+## Basic Info
 
-* 无需申请、自由下载
-* 数据介绍：<http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html>
-* 数据下载：<http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html>
+* Easy access
+* Dataset intro: <http://fcon_1000.projects.nitrc.org/indi/CoRR/html/index.html>
+* Download: <http://fcon_1000.projects.nitrc.org/indi/CoRR/html/_static/downloads.html>
 
-## 数据结构
+## Data Structure
 
 * [BMB1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bmb_1.html)
   * 包含50名被试（男24名），年龄范围18-60岁（平均年龄30岁）。
@@ -92,10 +92,16 @@
   * 包含54名被试（男27名），年龄范围10-53岁（平均25岁）。
   * 每名被试间隔7-158天（平均109天）扫描两次，部分被试包含两次T1/DTI/rsfMRI或两次T1/rsfMRI。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.75x3.75x4.55mm^3，FOV=240mm，TR=2000ms，150个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=256mm，b值为800，方向为30。
+
 * [NKI1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/nki_1.html)
-  * 包含24名被试（男0名），年龄范围19-60岁（平均34岁）。
-  * 其中23名被试间隔14天扫描两次，每次包含三个不同TR（645/1400/2500ms）的rsfMRI和一个DTI，第一次扫描包含T1。此外，第一次扫描还包含一些其他模态，具体信息不清楚。
-  * T1扫描参数：3T，分辨率1x0.97x0.97mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=216mm，TR=2500ms，120个时间点；rsfMRI扫描参数：3T，分辨率2x2x2mm^3，FOV=224mm，TR=1400ms，404个时间点；rsfMRI扫描参数：3T，分辨率3x3x3mm^3，FOV=224mm，TR=645ms，900个时间点；DTI扫描参数：3T，分辨率2x2x2mm^3，FOV=212x180mm^2，b值为1500，方向为128。
+  * 24 subjects (0 male), age range 19-60 (mean 34).
+  * 23 subjects had two visits with an interval of 14 days. In each visit, 3 REST scans with different TRs (645/1400/2500ms) and 1 DWI scan. In the first visit, 1 T1 scan and some other modalities.
+  * T1 parameters: field=3T, voxel size=1x0.97x0.97mm^3, FOV=250mm.
+  * REST parameters: field=3T，voxel size=3x3x3mm^3，FOV=216mm，TR=2500ms，120 volumes.
+  * REST parameters: field=3T，voxel size=2x2x2mm^3，FOV=224mm，TR=1400ms，404 volumes.
+  * REST parameters: filed=3T，voxel size=3x3x3mm^3，FOV=224mm，TR=645ms，900 volumes.
+  * DWI parameters: field=3T，voxel size=2x2x2mm^3，FOV=212x180mm^2，b-value=1500s/mm^2，directions=128.
+
 * [NKI2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/nki_2.html)
   * 包含77名被试（男32名），年龄范围6-17岁（平均11岁）。
   * 大多数被试包含两次扫描，每次扫描包含T1/rsfMRI/DTI，其中rsfMRI包含三个不同TR的扫描。两次扫描的时间间隔不清楚。

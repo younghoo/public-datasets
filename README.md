@@ -1,6 +1,6 @@
-## 常用神经影像公开数据
+## Some public datasets I used
 
-这个仓库原计划是汇总神经影像公开数据，经过一段时间实践后发现，我能够接触和使用的公开数据很有限，而且几乎没有其他人参与进来。所以今后这里只汇总我自己使用过或者经常使用的一些公开数据集，方便自己查阅。
+This repo contains some info about the public datasets I used in my studies. Great gratitude for those scientists sharing their datasets.
 
 * [Consortium for Reliability and Reproducibility](doc/CoRR.md)
 * [Enhanced Nathan Kline Institute-Rockland Sample (enhanced NKI)](doc/eNKI.md)

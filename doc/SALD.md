@@ -1,12 +1,13 @@
 # Southwest University Adult Lifespan Dataset
 
-## 基本信息
+## Basic Info
 
-* 无需申请、自由下载
-* 数据介绍和下载：<http://fcon_1000.projects.nitrc.org/indi/retro/sald.html>
+* Easy access
+* Dataset intro: <http://fcon_1000.projects.nitrc.org/indi/retro/sald.html>
 
-## 数据结构
+## Data Structure
 
-* 包含494名被试（男187名），年龄范围19-80岁。
-* 其中493名被试有一个T1和rsfMRI，1名被试只有一个T1。
-* T1扫描参数：3T，分辨率1mm，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.438x3.438x3.99mm^3，FOV=220mm，TR=2000ms，242个时间点。
+* 494 subjects (187 male), age range 19-80.
+* One T1 & one REST scan for 493 subjects and Only one T1 scan for one subject.
+* T1 parameters: field=3T, voxel size=1x1x1mm^3, FOV=256mm.
+* REST parameters: field=3T, voxel size=3.438x3.438x3.99mm^3, FOV=220mm, TR=2000ms, 242 volumes.
