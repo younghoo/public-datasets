@@ -1,13 +1,17 @@
 # Nathan Kline Institute (NKI)-Rockland Sample (pilot NKI)
 
-## 基本信息
+## Basic Info
 
-* 无需申请、自由下载
-* 数据介绍和下载：<http://fcon_1000.projects.nitrc.org/indi/pro/nki.html>
+* Easy access
+* Dataset intro & Download: <http://fcon_1000.projects.nitrc.org/indi/pro/nki.html>
 
-## 数据结构
+## Data Structure
 
-* 包含207名被试，年龄范围4-85岁，男/女: 120/87，右利手/左利手/其他: 179/25/3。
-* 其中204名被试有T1（注意部分被试序列是MPRAGE SHORTER），207名被试有REST，205名被试有DWI。部分被试有两次扫描（不清楚原因）。
-* T1扫描参数：3T，分辨率1mm，FOV=256mm；REST扫描参数：3T，分辨率3x3x3.3mm^3，FOV=216mm，TR=2500ms，260个时间点；DWI扫描参数: 3T，分辨率2mm，FOV=256mm，b值为1000，方向为60。
-* 还包含field map，T2和PD图像，以及一些量表数据。
+* 207 subjects, aged 4-85 years, male/female: 120/87, right-handed/others: 179/28.
+* 204 subjects had T1 scans (Note that some subjects had a T1 protocol of MPRAGE SHORTER), 207 subjects had REST scans, 205 subjects had DWI scans. Some subjects had two scans but the cause was unknown.
+* T1 parameters: field=3T, voxel size=1x1x1mm^3, FOV=256mm.
+* REST parameters: field=3T，voxel size=3x3x3.3mm^3，FOV=216mm，TR=2500ms，260 volumes.
+* DWI parameters: field=3T，voxel size=2x2x2mm^3，FOV=256mm，b-value=1000s/mm^2，directions=60.
+* Also include field map, T2 and PD scans, and neuropsychological test data.
+
+
