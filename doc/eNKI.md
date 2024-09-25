@@ -3,7 +3,7 @@
 ## Basic Info
 
 * Easy access
-* Data Intro & Download: <http://fcon_1000.projects.nitrc.org/indi/enhanced/neurodata.html>
+* Data intro & Download: <http://fcon_1000.projects.nitrc.org/indi/enhanced/neurodata.html>
 * Download script: [download_rockland_raw_bids_ver2.py](http://fcon_1000.projects.nitrc.org/indi/enhanced/download_rockland_raw_bids_ver2.py)
 * Phenotypical data needs application: <http://fcon_1000.projects.nitrc.org/indi/enhanced/phenotypicdata.html>
 

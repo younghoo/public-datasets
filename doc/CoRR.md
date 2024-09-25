@@ -12,10 +12,14 @@
   * 包含50名被试（男24名），年龄范围18-60岁（平均年龄30岁）。
   * 每名被试包含1个T1图像，其中40名被试包含2次rsfMRI扫描（同一个session），扫描间隔10分钟；10名被试包含4次rsfMRI扫描（同一个session），扫描间隔为10/17.5/25分钟。
   * T1扫描参数：3T，分辨率1mm，FOV=256mm；rsfMRI扫描参数：3T，分辨率3x3x4mm^3，FOV=192mm，TR=2300ms，200个时间点。
+
 * [BNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_1.html)
-  * 包含57名（男30名）被试，年龄范围19-30岁（平均年龄30岁），右利手，没有神经和精神障碍。
-  * 每名被试在大约相隔6周（33-55天，平均41天）完成两次MRI扫描，其中50名被试包含两次T1/rsfMRI/DTI扫描，1名被试第二次扫描只有rsfMRI/DTI，6名被试第二次扫描只有DTI。
-  * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x4.2mm^3，FOV=200mm，TR=2000ms，200个时间点；DTI扫描参数：3T，分辨率2.2x2.2x2.2mm^3，FOV=282mm，b值为1000，方向为30。
+  * 57 subjects (30 male), age range 19-30 (mean 30), right-handed, without neurological and psychiatric disorders.
+  * Every subject completed two MRI scanning sessions within an interval of approximate 6 weeks (33-55 days, mean 41). 50 subjects had two T1/REST/DWI scans, 1 subject had only REST/DWI at the second session, and 6 subjects had only DWI at the second session.
+  * T1 parameters: field=3T, voxel size=1.33x1x1mm^3, FOV=256mm.
+  * REST parameters: field=3T，voxel size=3.125x3.125x4.2mm^3，FOV=200mm，TR=2000ms，200 volumes.
+  * DWI parameters: field=3T，voxel size=2.2x2.2x2.2mm^3，FOV=282mm，b-value=1000s/mm^2，directions=30.
+
 * [BNU2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_2.html)
   * 包含61名被试（男33名），年龄范围19-23岁（平均年龄21岁）。
   * 每名被试相隔至少3个月（103-189天，平均161天）完成两次扫描，包含T1和rsfMRI。
@@ -24,10 +28,14 @@
   * 包含48名被试（男24名），年龄范围18-30岁（平均年龄22岁）。
   * 每名被试在同一个session中包含3次rsfMRI和一次T1/DTI扫描（2名被试有２次DTI扫描，1名被试没有DTI扫描），rsfMRI扫描间隔时间为0和8分钟。
   * T1扫描参数：3T，分辨率1.33x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.125x3.125x4.2mm^3，FOV=200mm，TR=2000ms，240个时间点；DTI扫描参数：3T，分辨率1.8x1.8x2.5mm^3，FOV=230mm，b值为1000，方向为64。
+
 * [HNU1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/hnu_1.html)
-  * 包含30名被试（男15名），年龄范围20-30岁（平均年龄24岁）。
-  * 每名被试在大约一个月内（31-40天，平均33天）完成10次MRI扫描，大约每三天一次（2-10天，平均3天）。每次扫描包含T1/CBF/DTI/ASL/rsfMRI。
-  * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=250mm；rsfMRI扫描参数：3T，分辨率3.4x3.4x3.4mm^3，FOV=220mm，TR=2000ms，300个时间点；DTI扫描参数：3T，分辨率1.5x1.5x1.5mm^3，FOV=192mm，b值为1000，方向为30。 
+  * 30 subjects (15 male), aged 20-30 years (mean 24).
+  * Every subject completed 10 scanning sessions in about one month (31-40 days, mean 33). About one session every 3 days (2-10 days, mean 3). In each session, T1/REST/DWI/CBF/ASL modalities were acquired.
+  * T1 parameters: field=3T, voxel size=1x1x1mm^3, FOV=250mm.
+  * REST parameters: field=3T，voxel size=3.4x3.4x3.4mm^3，FOV=220mm，TR=2000ms，300 volumes.
+  * DWI parameters: field=3T，voxel size=1.5x1.5x1.5mm^3，FOV=192mm，b-value=1000s/mm^2，directions=30.
+
 * [IACAS1](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/iacas_1.html)
   * 包含28被试（男13名），年龄范围19-43岁（平均26岁）。
   * 每名被试间隔20-343天（平均75天）进行两次MRI扫描，每次扫描包含T1/rsfMRI（其中1名被试第二次扫描缺少T1，4名被试有第三次扫描，但缺乏间隔信息）。
