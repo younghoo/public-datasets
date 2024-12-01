@@ -40,6 +40,7 @@
   * 包含28被试（男13名），年龄范围19-43岁（平均26岁）。
   * 每名被试间隔20-343天（平均75天）进行两次MRI扫描，每次扫描包含T1/rsfMRI（其中1名被试第二次扫描缺少T1，4名被试有第三次扫描，但缺乏间隔信息）。
   * T1扫描参数：3T，分辨率1x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率3.4x3.4x4mm^3，FOV=220mm，TR=2000ms，240个时间点。
+  
 * [IBATRT](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ibatrt.html)
   * 包含36名被试（男18名），年龄范围19-48岁（平均27岁）。
   * 每名被试包含T1、两次rsfMRI和两次tsfMRI（同一session内，其中1名被试没有tsfMRI）。14名被试间隔51-183天（平均115天）进行第二次扫描。
@@ -48,10 +49,14 @@
   * 包含30名被试（男9名），年龄范围18-24岁（平均21岁）。
   * 每名被试间隔5-24天（平均14天）进行两次扫描，每次扫描包含T1/DTI和两次rsfMRI（间隔29分钟），其中1名被试第一次扫描缺失一次rsfMRI，1名被试第二次扫描缺失一次DTI和一次rsfMRI。
   * T1扫描参数：3T，分辨率1.3x1x1mm^3，FOV=256mm；rsfMRI扫描参数：3T，分辨率4x4x4.8mm^3，FOV=256mm，TR=2000ms，205个时间点；DTI扫描参数：3T，分辨率1.8x1.8x2.5mm^3，FOV=230mm，b值为1000，方向为61。
+  
 * [IPCAS2](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_2.html)
-  * 包含35名被试（男12名），年龄范围11-15岁（平均13岁），其中一名被试没有信息。
-  * 每名被试包含两次T1/DTI/rsfMRI扫描，间隔7-59天（平均33天）。
-  * T1扫描参数：3T，分辨率1.2x0.94x0.94mm^3，FOV=240mm；rsfMRI扫描参数：3T，分辨率3.75x3.75x4mm^3，FOV=240mm，TR=2500ms，212个时间点；DTI扫描参数：3T，分辨率1.875x1.875x3mm^3，FOV=240mm，b值为1000，方向为36。
+  * 35 subjects (12 male), aged 11-15 years (mean 13). Missing demographical info for one subject.
+  * Every subject completed two MRI scanning sessions within an interval of approximate two months (7-59 days, mean 33).
+  * T1 parameters: field=3T, voxel size=1.2x0.94x0.94mm^3, FOV=240mm.
+  * REST parameters: field=3T，voxel size=3.75x3.75x4mm^3，FOV=240mm，TR=2500ms，212 volumes.
+  * DWI parameters: field=3T，voxel size=1.875x1.875x3mm^3，FOV=240mm，b-value=1000s/mm^2，directions=36.
+
 * [IPCAS3](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/ipcas_3.html)
   * 包含36名被试（男12名），年龄范围17-25岁（平均21岁），其中一名被试没有信息。
   * 每名被试（在一个session内）包含一次T1和两次rsfMRI（间隔40分钟）。其中4名被试在1-2天后有第二次相同的扫描。
